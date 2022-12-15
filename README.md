@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Dprof-code/news-homepage-main.git]
+- Live Site URL: [https://subtle-monstera-d462d4.netlify.app/]
 
 ## My process
 
@@ -45,6 +45,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Olawale Adedamola](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Olawale Adedamola](https://www.linkedin.com/in/olawale-adedamola-b9b1641a2/)
+- Frontend Mentor - [@dprof-code](https://www.frontendmentor.io/profile/Dprof-code)
+- Twitter - [@pr0devs](https://www.twitter.com/pr0devs)
